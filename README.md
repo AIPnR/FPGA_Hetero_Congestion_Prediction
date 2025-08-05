@@ -24,12 +24,10 @@ Contained within this directory are scripts essential for the automation and ana
 
 This directory hosts the training and model scripts for various machine learning models employed in this research.
 
-#### source/check_point
-
-This sub-directory stores visualization figures of model predictions and the evaluation of various metrics.
 
 ## Getting Started
-Follow these steps to set up and run the experiments from this repository.
+
+Due to the large size of the dataset, it has not been uploaded. Follow these steps to rebuild Datset and run the experiments. Visualizations of prediction results and evaluation metrics can be found in the source/check_points directory for reference.
 
 1. **Install VTR 8.0.0:**
    - Follow the installation instructions available at [VTR's official documentation](https://docs.verilogtorouting.org/en/latest/).
