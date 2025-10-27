@@ -41,3 +41,9 @@ Due to the large size of the dataset, it has not been uploaded. Follow these ste
 5. **Model Training and Testing:**
    - Navigate to the `/source` directory.
    - Run `train_<model>.py` to train and test the congestion prediction model. Ensure you have the necessary Python packages installed.
+  
+## Citations
+If you find our paper/code useful in your research, please citing
+
+https://doi.org/10.1145/3773770
+
